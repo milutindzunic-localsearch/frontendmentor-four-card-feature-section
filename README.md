@@ -5,15 +5,16 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 
-### Screenshot
+### Screenshots
 
-![](./screenshot.jpg)
+![](./screenshots/screenshot_chrome_desktop.png)
+![](./screenshots/screenshot_chrome_mobile.png)
 
 ### Links
 
